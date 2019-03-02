@@ -1,0 +1,14 @@
+{
+    "name": "sleepy-plateau-29711",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "axios": "^0.18.0",
+        "cheerio": "^1.0.0-rc.2",
+        "express": ">=2.5.0",
+        "express-handlebars": "^3.0.2",
+        "jade": ">= 0.16.4",
+        "mongoose": "^5.4.16",
+        "morgan": "^1.9.1"
+    }
+}
